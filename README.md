@@ -11,8 +11,8 @@ This code consists of basically two parts. The Background is at First a line gra
 The second part is the two shapes added, png images, that have very slow Rotation, Fadind, and Scale animations do achieve this effect. They are placed on a grid and the grid Vertical Option is modified so that the two images sit on the Start and End of the Page.
 
 The two images used are 
-![alt text](https://github.com/giovannapp/XamarinFormsBackgrounds/blob/main/shape1.pngf?raw=true)
-![alt text](https://github.com/giovannapp/XamarinFormsBackgrounds/blob/main/shape2.pngf?raw=true)
+![alt text](https://github.com/giovannapp/XamarinFormsBackgrounds/blob/main/shape1.png?raw=true)
+![alt text](https://github.com/giovannapp/XamarinFormsBackgrounds/blob/main/shape2.png?raw=true)
 
 Here is a preview of what it looks like:
 
