@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NALA.Views.ItemsPage"
+             Shell.NavBarIsVisible="False"
+             xmlns:local="clr-namespace:NALA.ViewModels"  
+             xmlns:model="clr-namespace:NALA.Models"  
+             x:Name="BrowseItemsPage">
+
+    <Grid>
+        
+        <BoxView x:Name="GradientBackground" Scale="4">
+            <BoxView.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#D0B5DB" Offset="0.1"/>
+                    <GradientStop Color="#F25371" Offset="0.3"/>
+                    <GradientStop Color="#C4D0E7" Offset="0.6"/>
+                    <GradientStop Color="#F2CBB2" Offset="1.0"/>
+                    <GradientStop Color="#F78773" Offset="0.8"/>
+                </LinearGradientBrush>
+            </BoxView.Background>
+        </BoxView>
+        <Image x:Name="image1" Source="shape1.png" Scale="2" Grid.Row="0" VerticalOptions="End"/>
+        <Image x:Name="image2" Source="shape2.png" Scale="2" Grid.Row="0" VerticalOptions="Start" Rotation="360"/>
+        
+    </Grid>
+       
+</ContentPage>
