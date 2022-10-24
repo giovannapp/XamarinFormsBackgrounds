@@ -6,4 +6,6 @@ I am working on implementing beautiful backgrounds and templetes for different A
 While learning Xamarin Forms, developing and sharing these code snipets with Gif examples makes me excited to learn more.
 Enjoy the code and hopefully it helps you!
 
+Here is a preview of what it looks like
+
 ![alt text](https://github.com/giovannapp/XamarinFormsBackgrounds/blob/main/BackgroundImageAnimationsandGradiant.gif?raw=true)
